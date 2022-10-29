@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.771b2a09.css",
-    "main.js": "/static/js/main.68ed5406.js",
-    "static/media/elev.png": "/static/media/elev.358a062090c3188df646.png",
-    "static/media/8k_earth_daymap.png": "/static/media/8k_earth_daymap.436e56b0a41d4422058d.png",
-    "static/media/earth_normals_lowres.png": "/static/media/earth_normals_lowres.7d435c17f4eca31eab6e.png",
-    "index.html": "/index.html",
-    "main.771b2a09.css.map": "/static/css/main.771b2a09.css.map",
-    "main.68ed5406.js.map": "/static/js/main.68ed5406.js.map"
+    "main.css": "/R3F-Earth/static/css/main.771b2a09.css",
+    "main.js": "/R3F-Earth/static/js/main.c17cac5a.js",
+    "static/media/elev.png": "/R3F-Earth/static/media/elev.358a062090c3188df646.png",
+    "static/media/8k_earth_daymap.png": "/R3F-Earth/static/media/8k_earth_daymap.436e56b0a41d4422058d.png",
+    "static/media/earth_normals_lowres.png": "/R3F-Earth/static/media/earth_normals_lowres.7d435c17f4eca31eab6e.png",
+    "index.html": "/R3F-Earth/index.html",
+    "main.771b2a09.css.map": "/R3F-Earth/static/css/main.771b2a09.css.map",
+    "main.c17cac5a.js.map": "/R3F-Earth/static/js/main.c17cac5a.js.map"
   },
   "entrypoints": [
     "static/css/main.771b2a09.css",
-    "static/js/main.68ed5406.js"
+    "static/js/main.c17cac5a.js"
   ]
 }
