@@ -1,6 +1,6 @@
 {
-  "name": "earth",
   "homepage": "https://tlamhutto.github.io/R3F-Earth/",
+  "name": "earth",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
