@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "eve": "react-scripts build",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
