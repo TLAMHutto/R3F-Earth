@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.771b2a09.css",
+    "main.js": "/static/js/main.68ed5406.js",
+    "static/media/elev.png": "/static/media/elev.358a062090c3188df646.png",
+    "static/media/8k_earth_daymap.png": "/static/media/8k_earth_daymap.436e56b0a41d4422058d.png",
+    "static/media/earth_normals_lowres.png": "/static/media/earth_normals_lowres.7d435c17f4eca31eab6e.png",
+    "index.html": "/index.html",
+    "main.771b2a09.css.map": "/static/css/main.771b2a09.css.map",
+    "main.68ed5406.js.map": "/static/js/main.68ed5406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.771b2a09.css",
+    "static/js/main.68ed5406.js"
+  ]
+}
