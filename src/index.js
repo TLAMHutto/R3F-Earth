@@ -2,11 +2,11 @@ import React, { useRef, } from "react";
 import { createRoot } from 'react-dom/client'
 import { Canvas, useThree, useLoader, useFrame } from '@react-three/fiber'
 import { OrbitControls, Stars } from "@react-three/drei";
-import { TextureLoader } from 'three/src/loaders/TextureLoader'
+// import { TextureLoader } from 'three/src/loaders/TextureLoader'
 import * as THREE from "three";
 import map from "./assets/8k_earth_daymap.png";
 import height from "./assets/earth_normals_lowres.png";
-import normal from "./assets/elev.png";
+// import normal from "./assets/elev.png";
 import "./styles.css";
 
 
